@@ -10,3 +10,7 @@ C:\Users\lozbenfe\source\repos\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.csproj.CoreCo
 C:\Users\lozbenfe\source\repos\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.dll
 C:\Users\lozbenfe\source\repos\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.pdb
 C:\Users\lozbenfe\source\repos\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.genruntimeconfig.cache
+C:\Users\lozbenfe\source\repos\RSA\RSA\bin\Debug\netcoreapp3.1\RSA_Fedor_lib.dll
+C:\Users\lozbenfe\source\repos\RSA\RSA\bin\Debug\netcoreapp3.1\RSA_Fedor_lib.pdb
+C:\Users\lozbenfe\source\repos\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.csprojAssemblyReference.cache
+C:\Users\lozbenfe\source\repos\RSA\RSA\obj\Debug\netcoreapp3.1\RSA.csproj.CopyComplete
